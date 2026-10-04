@@ -79,13 +79,13 @@ These could become partners, distributors or simply benchmarks to copy.
 | Brand | Home | What it sells | Presence in CEE |
 |---|---|---|---|
 | Bears with Benefits | DE (owned by Havea, FR) | Femhealth, hair, sleep gummies | Not listed in any of the 9 |
-| Lashilé Beauty | FR (acquired by Cooper) | Beauty/hair gummies, #3 in French gummies (7.9% share) | FR, NL, FI found. None in CEE |
+| Lashilé Beauty | FR (acquired by Cooper) | Beauty/hair gummies, #3 in French gummies (7.9% share) | No retail found, **but runs ~30 Meta ads in each of 8 of your 9 countries** (Oct 2026) |
 | Les Miraculeux | FR | Gummy vitamins | None found |
 | Novomins | UK | Gummies, incl. creatine | UK, IE, DE. None in CEE |
 | Hairburst | UK | Hair gummies | UK, IT. None in CEE |
 | Starpowa / fourfive / New Leaf | UK | Sea moss, lion's mane gummies | None found |
 | Mummy Gummy | UK | Menopause gummy | None found |
-| Manhaé | FR | Menopause gummies | **RO only (Dr.Max)** |
+| Manhaé | FR | Menopause gummies | **RO only (Dr.Max).** Havea's 'Vitavea Romania' page runs ~4 Meta ads there |
 
 ## Competitors already in your markets
 
@@ -106,6 +106,14 @@ These could become partners, distributors or simply benchmarks to copy.
 - **Sea moss:** declare and limit the iodine per serving.
 
 ---
+
+## Meta ad check (4 Oct 2026)
+
+Live Meta ad counts per brand, worldwide and in your 9 countries, are in `gummies-product-ad-tracker.xlsx`. Key points:
+- **Bears with Benefits:** ~620 live ads worldwide and 0 in your 9 countries.
+- **Sea moss gummies:** ~1,000 ads worldwide against 1 per country in your markets (an Alibaba listing). Other sea moss formats are advertised there, so the demand exists.
+- **Shilajit:** ~8,000 ads in your markets (mostly resin and capsules), so there is strong demand but crowded ad auctions.
+- **Lashilé:** advertises in 8 of your 9 countries, so beauty/hair is more crowded than the retail check suggested.
 
 ## Recommendation
 
